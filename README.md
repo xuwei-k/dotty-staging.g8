@@ -6,7 +6,7 @@ A [Giter8][g8] template for a minimal [Dotty] staging project.
 
 Template usage
 --------------
-Using `sbt` version `1.1.5+`, do:
+Using `sbt` version `1.3.6+`, do:
 ```
 sbt new lampepfl/dotty-staging.g8
 ```
